@@ -2,5 +2,6 @@
 
 members = [
     "two-pointers",
-    "slow-fast-pointers"
+    "slow-fast-pointers",
+    "sliding-window"
 ]
